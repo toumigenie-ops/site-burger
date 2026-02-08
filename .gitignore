@@ -1,4 +1,4 @@
-node_modulesdist
+﻿node_modules
 build
 .env
 .env.local
